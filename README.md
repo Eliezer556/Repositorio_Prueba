@@ -1,2 +1,1 @@
-# Repositorio_Prueba
-Repositorio de prueba
+Prueba del repositorio
